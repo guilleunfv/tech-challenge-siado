@@ -1,6 +1,6 @@
 # 🩺 SIADO: Sistema de Apoio ao Diagnóstico de Obesidade
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](URL_DA_SUA_APP_STREAMLIT_AQUI)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tech-challenge-siado-fiap.streamlit.app/)
 
 ## 🚀 Sobre o Projeto
 
